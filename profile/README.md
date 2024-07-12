@@ -58,8 +58,8 @@ All content in this repository is under our own license. Please ensure you under
 
 For inquiries, collaboration, or support:
 
-- **Email:** [contact@rm-aerospace.com](mailto:info@rmaerospace.com)
-- **Website:** [www.rm-aerospace.com](https://.rmaerospace.com)
+- **Email:** [info@rmaerospace.com](mailto:info@rmaerospace.com)
+- **Website:** [https://rmaerospace.com](https://rmaerospace.com)
 - **LinkedIn:** [RM Aerospace Corporation](https://linkedin.com/company/rm-aerospace-corporation)
 
 ---
