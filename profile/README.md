@@ -1,6 +1,9 @@
 # RM Aerospace Corporation
 
-<img src="https://github.com/RM-Aerospace-Corporation/.github/blob/main/RM_Aerospace_500px.png" alt="RM Aerospace Logo" width="200"/>
+<picture>
+  <source srcset="https://github.com/RM-Aerospace-Corporation/.github/blob/main/WHITE_RM_Aerospace_500px.png" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/RM-Aerospace-Corporation/.github/blob/main/RM_Aerospace_500px.png" alt="RM Aerospace Logo" width="200">
+</picture>
 
 Welcome to the official GitHub repository for RM Aerospace Corporation. We specialize in enhancing real-world capabilities through advanced AI and simulation technologies in the aviation and defense sectors.
 
